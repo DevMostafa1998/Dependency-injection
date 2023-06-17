@@ -1,0 +1,15 @@
+C:\Developer\GloryProject\c#\DepInjection\bin\Debug\net7.0\DepInjection.exe
+C:\Developer\GloryProject\c#\DepInjection\bin\Debug\net7.0\DepInjection.deps.json
+C:\Developer\GloryProject\c#\DepInjection\bin\Debug\net7.0\DepInjection.runtimeconfig.json
+C:\Developer\GloryProject\c#\DepInjection\bin\Debug\net7.0\DepInjection.dll
+C:\Developer\GloryProject\c#\DepInjection\bin\Debug\net7.0\DepInjection.pdb
+C:\Developer\GloryProject\c#\DepInjection\obj\Debug\net7.0\DepInjection.csproj.AssemblyReference.cache
+C:\Developer\GloryProject\c#\DepInjection\obj\Debug\net7.0\DepInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\GloryProject\c#\DepInjection\obj\Debug\net7.0\DepInjection.AssemblyInfoInputs.cache
+C:\Developer\GloryProject\c#\DepInjection\obj\Debug\net7.0\DepInjection.AssemblyInfo.cs
+C:\Developer\GloryProject\c#\DepInjection\obj\Debug\net7.0\DepInjection.csproj.CoreCompileInputs.cache
+C:\Developer\GloryProject\c#\DepInjection\obj\Debug\net7.0\DepInjection.dll
+C:\Developer\GloryProject\c#\DepInjection\obj\Debug\net7.0\refint\DepInjection.dll
+C:\Developer\GloryProject\c#\DepInjection\obj\Debug\net7.0\DepInjection.pdb
+C:\Developer\GloryProject\c#\DepInjection\obj\Debug\net7.0\DepInjection.genruntimeconfig.cache
+C:\Developer\GloryProject\c#\DepInjection\obj\Debug\net7.0\ref\DepInjection.dll
